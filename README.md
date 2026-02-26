@@ -1,3 +1,2 @@
 # PalindromeChecker
-//running procedure UC1
-//Running procedure for UC2
+//running procedure of UC3 where i reversed the string and checked for palindrome
