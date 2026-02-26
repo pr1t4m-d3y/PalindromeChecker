@@ -1,2 +1,2 @@
 # PalindromeChecker
-//running procedure of UC3 where i reversed the string and checked for palindrome
+//Running UC4, Where Each character is compared using two pointer
