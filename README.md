@@ -1,2 +1,2 @@
 # PalindromeChecker
-//running procedure UC6- Using Dequeue Optimization
+//running Palindrome Checking but with Linked list approach
