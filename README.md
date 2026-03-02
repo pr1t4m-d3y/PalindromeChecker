@@ -1,2 +1,3 @@
 # PalindromeChecker
-//running procedure UC11- Strategy Pattern for Palindrome Algorithms
+//running procedure UC13- Performace comparision
+i implemented timestamp, where it calculated the time of the cpu executing
