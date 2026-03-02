@@ -1,2 +1,2 @@
 # PalindromeChecker
-//running procedure UC6- Using Dequeue Optimization
+//running procedure UC9- Using Recurssion method
