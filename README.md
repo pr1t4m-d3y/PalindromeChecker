@@ -1,2 +1,2 @@
 # PalindromeChecker
-//running Palindrome Checking but with Linked list approach
+//running procedure UC9- Using Recurssion method
