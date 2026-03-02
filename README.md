@@ -1,2 +1,3 @@
 # PalindromeChecker
-//running procedure UC6- Using Dequeue Optimization
+//running procedure UC13- Performace comparision
+i implemented timestamp, where it calculated the time of the cpu executing
