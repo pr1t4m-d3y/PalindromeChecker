@@ -1,2 +1,2 @@
 # PalindromeChecker
-//running procedure UC5, where Stack Based Palindrome checking is done
+//running procedure UC10- Where i am ignoring the the spaces and ignoring the spaces and ignoring the cases
