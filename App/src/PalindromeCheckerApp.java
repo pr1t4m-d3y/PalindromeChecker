@@ -3,7 +3,6 @@ public class PalindromeCheckerApp {
     public static void main(String args[]){
         String input = "level";
         LinkedList<Character> list = new LinkedList<>();
-
         for (char c : input.toCharArray()) {
             list.add(c);
         }
