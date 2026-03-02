@@ -1,2 +1,2 @@
 # PalindromeChecker
-//running procedure UC6 -Using Stack and Queue
+//running procedure UC5, where Stack Based Palindrome checking is done

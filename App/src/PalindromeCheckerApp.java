@@ -7,16 +7,14 @@ public class PalindromeCheckerApp {
     }
 
     public static void main(String args[]){
-        String input = "civic";
-        Queue<Character> queue = new LinkedList<>();
+        String input = "noon";
         Stack<Character> stack = new Stack<>();
-        for (char c : input.toCharArray()) {
-            queue.add(c);
+        for (char c : input.toCharArray())
             stack.push(c);
-        }
         boolean isPalindrome = true;
-        while (!queue.isEmpty()) {
-            if (!queue.remove().equals(stack.pop())) {
+
+        for (char c : input.toCharArray()) {
+            if (c != stack.pop()) {
                 isPalindrome = false;
                 break;
             }
