@@ -1,2 +1,2 @@
 # PalindromeChecker
-//running procedure UC9- Using Recurssion method
+//running procedure UC6 -Using Stack and Queue
