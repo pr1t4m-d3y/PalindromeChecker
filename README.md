@@ -1,2 +1,2 @@
 # PalindromeChecker
-//running procedure UC6- Using Dequeue Optimization
+//running procedure UC10- Where i am ignoring the the spaces and ignoring the spaces and ignoring the cases
